@@ -13,6 +13,7 @@
 	</style>
 </head>
 <body>
+
 	<?php 
 		$count = fopen('count', 'r');
 		$num = fgets($count) + 1;
@@ -23,5 +24,6 @@
 		fputs($count, $num);
 		fclose($count);
 	?>
+	
 </body>
 </html>
