@@ -1,3 +1,3 @@
-Huijari.github.io
+huijari.github.io
 =================
-GOTO Huijari.github.io
+[Huijari.github.io](https://huijari.github.com)
